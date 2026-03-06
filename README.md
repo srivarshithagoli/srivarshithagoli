@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=700&lines=Hi+I'm+Varshitha+👋;Computer+Science+Engineer;MERN+Stack+Developer;Competitive+Programmer;Amazon+Future+Engineer+Scholar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=700&lines=Hi+I'm+Sri+Varshitha+👋;Computer+Science+Engineer;MERN+Stack+Developer;Competitive+Programmer;Amazon+Future+Engineer+Scholar" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC40&height=120&section=header&text=Sri Varshitha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC40&height=120&section=header&text=sriVarshithagoli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 # 👩‍💻 Sri Varshitha
 ### Computer Science Engineering Student | MERN Stack Developer | Competitive Programmer
