@@ -95,19 +95,7 @@ const varshitha = {
 
 ---
 
-## 🎯 Achievements
 
-<div align="center">
-
-| 🏆 Achievement | 🔗 Details |
-|---|---|
-| 🟠 Amazon Future Engineer Scholar | AFE Program — Top engineering students nationwide |
-| 🟢 Foundation For Excellence Scholar | FFE — Merit-based national scholarship |
-| ⭐⭐ CodeChef 2 Star | Competitive Programming rating milestone |
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
