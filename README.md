@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC40&height=120&section=header&text=sriVarshithagoli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC40&height=120&section=header&text=srivarshithagoli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 # 👩‍💻 Sri Varshitha
 ### Computer Science Engineering Student | MERN Stack Developer | Competitive Programmer
